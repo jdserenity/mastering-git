@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-attempting a conflict
+updating from feature branch and resolved conflict
